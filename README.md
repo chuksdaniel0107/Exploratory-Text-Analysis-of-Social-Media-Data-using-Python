@@ -1,0 +1,1 @@
+This project performs exploratory text analysis on social media data using Python. The workflow includes data cleaning, stopword removal, text preprocessing, word frequency analysis, and visualisation using word clouds and statistical plots.
